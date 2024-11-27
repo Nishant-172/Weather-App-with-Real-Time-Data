@@ -1,3 +1,4 @@
+// Javascrupt code starts here
 const apiKey = "YOUR_API_KEY"; // Replace with your OpenWeatherMap API key
 const searchBtn = document.getElementById("search-btn");
 const cityInput = document.getElementById("city-input");
