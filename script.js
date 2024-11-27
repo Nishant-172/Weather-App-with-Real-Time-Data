@@ -38,3 +38,4 @@ function updateWeatherInfo(data) {
   details.textContent = `Humidity: ${data.main.humidity}% | Wind Speed: ${data.wind.speed} km/h`;
 }
 // javascript code ends here
+// <!-- All code is runing 3 -->
